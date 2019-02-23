@@ -132,6 +132,10 @@
         "source": "C:\\Users\\KDR\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\63d2e1f9a7d46249bfb52c3605f71012\\res\\drawable-xhdpi\\ic_media_route_disabled_mono_dark.png"
     },
     {
+        "merged": "E:\\E-recepty\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_fragment_message.xml.flat",
+        "source": "E:\\E-recepty\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
         "merged": "E:\\E-recepty\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_media_route_off_mono_dark.png.flat",
         "source": "C:\\Users\\KDR\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\63d2e1f9a7d46249bfb52c3605f71012\\res\\drawable-xhdpi\\ic_media_route_off_mono_dark.png"
     },
@@ -446,6 +450,10 @@
     {
         "merged": "E:\\E-recepty\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\KDR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\99e25c95ca511b740a92019d6b8dc6fd\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\E-recepty\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chat.xml.flat",
+        "source": "E:\\E-recepty\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\fragment_chat.xml"
     },
     {
         "merged": "E:\\E-recepty\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_cast_white_36.png.flat",
@@ -1502,6 +1510,10 @@
     {
         "merged": "E:\\E-recepty\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\KDR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\99e25c95ca511b740a92019d6b8dc6fd\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\E-recepty\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "E:\\E-recepty\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\fragment_profile.xml"
     },
     {
         "merged": "E:\\E-recepty\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -2778,6 +2790,10 @@
     {
         "merged": "E:\\E-recepty\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
         "source": "C:\\Users\\KDR\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\99e25c95ca511b740a92019d6b8dc6fd\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\E-recepty\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "E:\\E-recepty\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_profile.xml"
     },
     {
         "merged": "E:\\E-recepty\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cast_on_light.png.flat",

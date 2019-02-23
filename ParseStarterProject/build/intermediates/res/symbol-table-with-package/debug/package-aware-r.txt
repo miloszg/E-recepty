@@ -1511,6 +1511,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout activity_main
+layout activity_profile
 layout activity_user_menu
 layout cast_expanded_controller_activity
 layout cast_help_text
@@ -1532,6 +1533,9 @@ layout design_navigation_item_subheader
 layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
+layout fragment_chat
+layout fragment_message
+layout fragment_profile
 layout mr_media_route_chooser_dialog
 layout mr_media_route_controller_material_dialog_b
 layout mr_media_route_list_item
