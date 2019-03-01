@@ -6,12 +6,14 @@
     android:layout_height="match_parent"
     android:id="@+id/drawer_layout"
     android:fitsSystemWindows="true"
-    tools:context=".UserMenuActivity"
-    tools:openDrawer="start">
-    <LinearLayout
+    tools:context=".UserMenuActivity">
+    <!--tools:openDrawer="start">-->
+
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
         <android.support.v7.widget.Toolbar
             android:layout_width="match_parent"
             android:background="@color/cast_intro_overlay_button_background_color"
@@ -20,12 +22,63 @@
             android:popupTheme="@style/ThemeOverlay.AppCompat.Light"
             android:elevation="4dp"
             android:layout_height="?attr/actionBarSize"/>
-         <FrameLayout
-             android:layout_width="match_parent"
-             android:layout_height="match_parent"
-             android:id="@+id/fragment_container"
-             />
-    </LinearLayout>
+
+        <Button
+            android:id="@+id/buttonMeds"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="98dp"
+            android:layout_marginBottom="345dp"
+            android:background="@android:color/holo_red_light"
+            android:text="Moje leki" />
+
+        <Button
+            android:id="@+id/buttonSearch"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="231dp"
+            android:layout_marginTop="280dp"
+            android:background="@android:color/holo_red_light"
+            android:text="Szukaj" />
+
+        <Button
+            android:id="@+id/buttonProfile"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="100dp"
+            android:layout_marginBottom="215dp"
+            android:background="@android:color/holo_red_light"
+            android:text="Mój Profil" />
+
+        <Button
+            android:id="@+id/buttonAlerts"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="232dp"
+            android:layout_marginBottom="217dp"
+            android:background="@android:color/holo_red_light"
+            android:text="Przypomnienia" />
+
+
+        <FrameLayout
+            android:id="@+id/fragment_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp">
+
+        </FrameLayout>
+    </RelativeLayout>
 
     <android.support.design.widget.NavigationView
         android:id="@+id/nav_view"
@@ -34,6 +87,8 @@
         android:layout_gravity="start"
         android:fitsSystemWindows="true"
         app:headerLayout="@layout/nav_header"
-        app:menu="@menu/drawer_menu" />
+        app:menu="@menu/drawer_menu" >
+
+    </android.support.design.widget.NavigationView>
 
 </android.support.v4.widget.DrawerLayout>

@@ -1198,7 +1198,11 @@ id blocking
 id book_now
 id bottom
 id button
+id buttonAlerts
+id buttonMeds
 id buttonPanel
+id buttonProfile
+id buttonSearch
 id button_0
 id button_1
 id button_2
