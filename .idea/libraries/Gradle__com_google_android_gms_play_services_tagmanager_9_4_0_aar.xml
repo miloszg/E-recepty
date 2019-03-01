@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.gms:play-services-tagmanager:9.4.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-9.4.0.aar/e683013bf5dbc7f6b5c3fff5df756b3f/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-9.4.0.aar/e683013bf5dbc7f6b5c3fff5df756b3f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-9.4.0.aar/64acfe5881538fedf96ce7ab7585797f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-9.4.0.aar/64acfe5881538fedf96ce7ab7585797f/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

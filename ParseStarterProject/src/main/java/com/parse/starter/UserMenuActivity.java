@@ -13,6 +13,8 @@ import android.view.MenuItem;
 import android.support.v4.app.Fragment;
 import android.widget.Toast;
 
+import com.parse.ParseUser;
+
 public class UserMenuActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
     private DrawerLayout drawer;
 
@@ -20,7 +22,7 @@ public class UserMenuActivity extends AppCompatActivity implements NavigationVie
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setTitle("Dukat chuj");
+        setTitle("Main Menu");
         setContentView(R.layout.activity_user_menu);
 
         Toolbar toolbar=findViewById(R.id.toolbar);
@@ -47,21 +49,24 @@ public class UserMenuActivity extends AppCompatActivity implements NavigationVie
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()){
-            case R.id.nav_message:
-                Toast.makeText(this, "message", Toast.LENGTH_SHORT).show();
+            case R.id.nav_meds:
+                Toast.makeText(this, "Leki", Toast.LENGTH_SHORT).show();
                 break;
-            case R.id.nav_chat:
-                Toast.makeText(this, "chat", Toast.LENGTH_SHORT).show();
+            case R.id.nav_calendar:
+                Toast.makeText(this, "Kalendarz", Toast.LENGTH_SHORT).show();
                 break;
-            case R.id.nav_profile:
+            case R.id.nav_notes:
                 Intent intent=new Intent(this,ProfileActivity.class);
                 startActivity(intent);
                 break;
-            case R.id.nav_share:
-                Toast.makeText(this, "Share", Toast.LENGTH_SHORT).show();
+            case R.id.nav_settings:
+                Toast.makeText(this, "Ustawienia", Toast.LENGTH_SHORT).show();
                 break;
-            case R.id.nav_send:
-                Toast.makeText(this, "Send", Toast.LENGTH_SHORT).show();
+            case R.id.nav_logout:
+                ParseUser.logOut();
+                Toast.makeText(this, "Trwa wylogowanie...", Toast.LENGTH_SHORT).show();
+                Intent intentLogout=new Intent(getApplicationContext(),MainActivity.class);
+                startActivity(intentLogout);
                 break;
 
         }
