@@ -47,6 +47,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     EditText passwordEditText;
     EditText usernameEditText;
 
+    Button buttonMed;
+    Button buttonSearch;
+    Button buttonProfile;
+    Button buttonAlerts;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -58,6 +63,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         loginTextView.setOnClickListener(this);
         usernameEditText= findViewById(R.id.usernameEditText);
         passwordEditText= findViewById(R.id.passwordEditText);
+        buttonMed=findViewById(R.id.buttonMeds);
+        buttonProfile=findViewById(R.id.buttonProfile);
         ImageView logoImage=findViewById(R.id.logoImage);
         RelativeLayout layout=findViewById(R.id.backgroundLayout);
         logoImage.setOnClickListener(this);
@@ -68,6 +75,20 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
              showUserList();
         }
 
+        buttonMed.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intentMed=new Intent(getApplicationContext(), MedsActivity.class);
+                startActivity(intentMed);
+            }
+        });
+        buttonProfile.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intentProfile=new Intent(getApplicationContext(), ProfileActivity.class);
+                startActivity(intentProfile);
+            }
+        });
         ParseAnalytics.trackAppOpenedInBackground(getIntent());
     }
     @Override

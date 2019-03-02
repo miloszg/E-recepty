@@ -15,6 +15,8 @@ import android.widget.Toast;
 
 import com.parse.ParseUser;
 
+import java.util.Calendar;
+
 public class UserMenuActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
     private DrawerLayout drawer;
 
@@ -50,14 +52,18 @@ public class UserMenuActivity extends AppCompatActivity implements NavigationVie
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()){
             case R.id.nav_meds:
+                Intent intentMed=new Intent(this,MedsActivity.class);
+                startActivity(intentMed);
                 Toast.makeText(this, "Leki", Toast.LENGTH_SHORT).show();
                 break;
             case R.id.nav_calendar:
+                Intent intentCalendar=new Intent(this, CalendarActivity.class);
+                startActivity(intentCalendar);
                 Toast.makeText(this, "Kalendarz", Toast.LENGTH_SHORT).show();
                 break;
             case R.id.nav_notes:
-                Intent intent=new Intent(this,ProfileActivity.class);
-                startActivity(intent);
+                Intent intentNotes=new Intent(this,NotesActivity.class);
+                startActivity(intentNotes);
                 break;
             case R.id.nav_settings:
                 Toast.makeText(this, "Ustawienia", Toast.LENGTH_SHORT).show();

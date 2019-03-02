@@ -1213,6 +1213,7 @@ id buyButton
 id buy_now
 id buy_with
 id buy_with_google
+id calendarView
 id cancel_action
 id cast_button_type_closed_caption
 id cast_button_type_custom
@@ -1265,6 +1266,7 @@ id disconnect
 id donate_with
 id donate_with_google
 id drawer_layout
+id editText
 id edit_query
 id email
 id end
@@ -1320,6 +1322,7 @@ id line1
 id line3
 id listMode
 id list_item
+id lista
 id loading_indicator
 id loginTextView
 id logoImage
@@ -1328,6 +1331,7 @@ id main_container
 id masked
 id match_global_nicknames
 id match_parent
+id medListView
 id media_actions
 id media_route_control_frame
 id media_route_list
@@ -1348,6 +1352,7 @@ id navigation_header_container
 id never
 id none
 id normal
+id note
 id notification_background
 id notification_main_column
 id notification_main_column_container
@@ -1516,8 +1521,13 @@ layout abc_screen_toolbar
 layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
+layout activity_add_notes
+layout activity_calendar
 layout activity_main
+layout activity_meds
+layout activity_notes
 layout activity_profile
+layout activity_settings
 layout activity_user_menu
 layout cast_expanded_controller_activity
 layout cast_help_text
@@ -1568,6 +1578,7 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 layout tooltip
 menu drawer_menu
+menu menu_main
 mipmap ic_launcher
 raw gtm_analytics
 string abc_action_bar_home_description

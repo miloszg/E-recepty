@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-37:12
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\KDR\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\b1b1a98ad25c881d350cbd9278072054\AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:design:26.0.0] C:\Users\KDR\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\77927635f39049d08d4fd9ad56b15d24\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\KDR\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\32f3b0025fc3e6fe2a0907da7cfe1f6b\AndroidManifest.xml:17:1-22:12
@@ -68,20 +68,20 @@ MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\KDR\.
 MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\KDR\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\8dd14b06058bed3dd33117a51e213987\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\KDR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\67e9ceb7f11ddd3625c613a6f40c3f11\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\KDR\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\6183e66bab46f95228894fd7e6906c14\AndroidManifest.xml:17:1-31:12
-INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-37:12
 	package
 		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-31:12
+		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-37:12
 		INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-31:12
+		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:1-37:12
 		INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:2:11-69
@@ -144,7 +144,7 @@ ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\mai
 	android:name
 		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:8:22-76
 application
-ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:5-29:19
+ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:5-35:19
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\KDR\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\b1b1a98ad25c881d350cbd9278072054\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\KDR\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\b1b1a98ad25c881d350cbd9278072054\AndroidManifest.xml:5:5-20
 MERGED from [com.android.support:design:26.0.0] C:\Users\KDR\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\77927635f39049d08d4fd9ad56b15d24\AndroidManifest.xml:25:5-29:19
@@ -263,32 +263,52 @@ MERGED from [com.android.support:support-compat:26.0.0] C:\Users\KDR\.gradle\cac
 		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:15:9-40
 	android:name
 		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:11:9-43
+activity#com.parse.starter.AddNotesActivity
+ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:16:9-63
+	android:name
+		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:16:19-51
+activity#com.parse.starter.SettingsActivity
+ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:17:9-54
+	android:name
+		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:17:19-51
+activity#com.parse.starter.NotesActivity
+ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:18:9-51
+	android:name
+		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:18:19-48
+activity#com.parse.starter.CalendarActivity
+ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:20:9-54
+	android:name
+		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:20:19-51
+activity#com.parse.starter.MedsActivity
+ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:21:9-50
+	android:name
+		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:21:19-47
 activity#com.parse.starter.ProfileActivity
-ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:16:9-62
+ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:22:9-53
 	android:name
-		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:16:19-50
+		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:22:19-50
 activity#com.parse.starter.UserMenuActivity
-ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:17:9-19:47
+ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:23:9-25:47
 	android:theme
-		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:19:13-44
+		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:25:13-44
 	android:name
-		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:18:13-45
+		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:24:13-45
 activity#com.parse.starter.MainActivity
-ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:20:9-28:20
+ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:26:9-34:20
 	android:label
-		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:22:13-45
+		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:28:13-45
 	android:name
-		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:21:13-41
+		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:27:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:23:13-27:29
+ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:24:17-69
+ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:24:25-66
+		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:26:17-77
+ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:26:27-74
+		ADDED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:32:27-74
 uses-sdk
 INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\E-recepty\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml

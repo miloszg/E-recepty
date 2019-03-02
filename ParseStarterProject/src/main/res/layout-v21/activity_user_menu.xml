@@ -25,40 +25,40 @@
 
         <Button
             android:id="@+id/buttonMeds"
-            android:layout_width="110dp"
-            android:layout_height="110dp"
+            android:layout_width="123dp"
+            android:layout_height="107dp"
             android:layout_alignParentStart="true"
             android:layout_alignParentBottom="true"
-            android:layout_marginStart="98dp"
-            android:layout_marginBottom="345dp"
+            android:layout_marginStart="77dp"
+            android:layout_marginBottom="352dp"
             android:background="@android:color/holo_red_light"
             android:text="Moje leki" />
 
         <Button
             android:id="@+id/buttonSearch"
-            android:layout_width="110dp"
-            android:layout_height="110dp"
+            android:layout_width="124dp"
+            android:layout_height="109dp"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
-            android:layout_marginStart="231dp"
-            android:layout_marginTop="280dp"
+            android:layout_marginStart="230dp"
+            android:layout_marginTop="226dp"
             android:background="@android:color/holo_red_light"
             android:text="Szukaj" />
 
         <Button
             android:id="@+id/buttonProfile"
-            android:layout_width="110dp"
-            android:layout_height="110dp"
+            android:layout_width="121dp"
+            android:layout_height="107dp"
             android:layout_alignParentStart="true"
             android:layout_alignParentBottom="true"
-            android:layout_marginStart="100dp"
-            android:layout_marginBottom="215dp"
+            android:layout_marginStart="89dp"
+            android:layout_marginBottom="218dp"
             android:background="@android:color/holo_red_light"
             android:text="Mój Profil" />
 
         <Button
             android:id="@+id/buttonAlerts"
-            android:layout_width="110dp"
+            android:layout_width="125dp"
             android:layout_height="110dp"
             android:layout_alignParentStart="true"
             android:layout_alignParentBottom="true"

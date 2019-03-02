@@ -36,6 +36,11 @@
         android:label="@string/app_name"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.parse.starter.AddNotesActivity" />
+        <activity android:name="com.parse.starter.SettingsActivity" />
+        <activity android:name="com.parse.starter.NotesActivity" />
+        <activity android:name="com.parse.starter.CalendarActivity" />
+        <activity android:name="com.parse.starter.MedsActivity" />
         <activity android:name="com.parse.starter.ProfileActivity" />
         <activity
             android:name="com.parse.starter.UserMenuActivity"
